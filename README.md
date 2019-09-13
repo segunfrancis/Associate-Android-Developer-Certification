@@ -133,6 +133,7 @@ Thanks to [Daita](https://github.com/vdaita) for this contribution.
 - [ ] Create an Activity that displays a layout resource
 - [ ] [Schedule a time-sensitive task using alarms](https://github.com/firebase/firebase-jobdispatcher-android)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
+   - [ ] [[Code Labs Android] JobScheduler](https://codelabs.developers.google.com/codelabs/android-training-job-scheduler/index.html#0)
 - [ ] Schedule a background task using [JobScheduler](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw_gbIbmGs4wplosYZn3kAm)
   - [ ] [[Udacity Course] Developing Android Apps Lesson: Background Tasks](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - [ ] Execute a background task inside of a [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw)
